@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vashaud! <br/><a href="https://github.com/VWrightTech">Programmer</a>, <a href="https://www.linkedin.com/in/VashaudWright/">
+<h1>Hi, I'm Vashaud! <br/><a href="https://github.com/VWrightTech">Network Engineer | Cloud Architect</a>, <a href="https://www.linkedin.com/in/VashaudWright/">
   
 </a>, <a href="https://www.youtube.com/c/VKWTech">YouTuber</a></h1>
 
