@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vashaud! <br/><a href="https://github.com/VWrightTech">Network Engineer | Cloud Architect</a>, <a href="https://www.linkedin.com/in/VashaudWright/">
   
-</a>, <a href="https://www.youtube.com/c/VKWTech">YouTuber</a></h1>
+</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -8,7 +8,6 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/VWrightTech/SIEM)
   - [VWipe (Disk Wiping Utility)](https://github.com/VWrightTech/VWipe)
   - [Active Directory Bulk User Creation](https://github.com/VWrightTech/ActiveDirectory)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>📺 Cloud</h2>
 
