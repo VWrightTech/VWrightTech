@@ -10,8 +10,10 @@
   - [Active Directory Bulk User Creation](https://github.com/VWrightTech/ActiveDirectory)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<h2>📺 AWS</h2>
+<h2>📺 Cloud</h2>
 
+- <b>AWS</b>
+  
    - [Three Tier Architecture](https://github.com/VWrightTech/3tier)
 
 <h2> 🤳 Connect with me:</h2>
