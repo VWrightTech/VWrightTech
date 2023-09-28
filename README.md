@@ -10,9 +10,9 @@
   - [Active Directory Bulk User Creation](https://github.com/VWrightTech/ActiveDirectory)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<h2>📺 Step-by-step Videos</h2>
+<h2>📺 AWS</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+   - [Three Tier Architecture](https://github.com/VWrightTech/3tier)
 
 <h2> 🤳 Connect with me:</h2>
 
