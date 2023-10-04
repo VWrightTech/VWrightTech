@@ -28,7 +28,7 @@
 [<img align="left" alt="VashaudWright | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/c/VKWTech
+[youtube]: https://www.youtube.com/@VKWTech
 [linkedin]: https://linkedin.com/in/VashaudWright
 
 <!--
