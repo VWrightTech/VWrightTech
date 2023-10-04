@@ -14,6 +14,8 @@
 - <b>AWS</b>
   
    - [Three Tier Architecture](https://github.com/VWrightTech/3tier)
+- <b>Azure</b>
+
    - [Azure Hybrid Active Directory ](https://github.com/VWrightTech/HybridAD)
 <h2> 🤳 Connect with me:</h2>
 
