@@ -17,7 +17,12 @@
 - <b>Azure</b>
 
    - [Azure Hybrid Active Directory ](https://github.com/VWrightTech/HybridAD)
+ 
+<h2>📺 Vulnerability Management</h2>
+  
+   - [Nessus](https://github.com/VWrightTech/Nessus)
 <h2> 🤳 Connect with me:</h2>
+
 
 [<img align="left" alt="JVKWTech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VashaudWright | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
