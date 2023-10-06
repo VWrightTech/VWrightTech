@@ -21,6 +21,7 @@
 <h2>📺 Vulnerability Management</h2>
   
    - [Nessus](https://github.com/VWrightTech/Nessus)
+   - [OpenVas](https://github.com/VWrightTech/OpenVas)
 <h2> 🤳 Connect with me:</h2>
 
 
