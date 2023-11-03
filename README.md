@@ -15,7 +15,7 @@
   
    - [Three Tier Architecture](https://github.com/VWrightTech/3tier)
    - [CodeCommit](https://github.com/VWrightTech/CodeCommit)
-   - 
+     
 - <b>Azure</b>
 
    - [Azure Hybrid Active Directory ](https://github.com/VWrightTech/HybridAD)
